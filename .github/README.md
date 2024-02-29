@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a97b0a381fa37a82b4213.jpg">
+  <img src="https://te.legra.ph/file/d9f3c8ccec0bf7997568c.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
    <p align="center">
-     <img src="https://graph.org/file/6dbf205e018a9e7db2bad.jpg">
+     <img src="https://te.legra.ph/file/d9f3c8ccec0bf7997568c.jpg">
      </p>
 
 <h3 align="center">
@@ -64,11 +64,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Exampur20"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/BlackMusicSupport"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/SYSTUM). </b>
+- <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [TEAM BLACKLOVER](https://github.com/BLACKLOVER15) ғᴏʀ [BLACKLOVERMUSICBOT](https://github.com/WCGKING/Blacklover). </b>
