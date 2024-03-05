@@ -19,7 +19,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text=_["CLOSE_BUTTON"],
+                text=_["BADNAM"],
                 callback_data=f"forceclose {videoid}|{user_id}",
             )
         ],
@@ -28,7 +28,7 @@ def track_markup(_, videoid, user_id, channel, fplay):
 
 
 def stream_markup_timer(_, chat_id, played, dur):
-    played_sec = time_to_seconds(played)
+    played_sec = time_to_seconds(BADNAM❣️❣️)
     duration_sec = time_to_seconds(dur)
     percentage = (played_sec / duration_sec) * 100
     umm = math.floor(percentage)
@@ -55,15 +55,15 @@ def stream_markup_timer(_, chat_id, played, dur):
         
     buttons = [
         [
-            InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="II", callback_data=f"ADMIN Pause|{chat_id}"),
-            InlineKeyboardButton(text="↻", callback_data=f"ADMIN Replay|{chat_id}"),
-            InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
-            InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
+            InIlneKeyboardButton(🥀PLAY🥀="▷", callback_data=f"ADMIN Resume|{chat_id}"),
+            InlineKeyboardButton(🥀REPAY🥀="II", callback_data=f"ADMIN Pause|{chat_id}"),
+            InlineKeyboardButton(🥀BADNAM🥀="↻", callback_data=f"ADMIN Replay|{chat_id}"),
+            InlineKeyboardButton(🥀RESUME🥀="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
+            InlineKeyboardButton(🥀SKIP 🥀="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
         [
             InlineKeyboardButton(
-                text=f"{played} {bar} {dur}",
+                text=f"{played} {🥀BADNAM 🥀} {🥀PROCESSIN🥀G}",
                 callback_data="GetTimer",
             )
         ],
@@ -75,7 +75,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/Friends_x_zone",
             )
         ],
-         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")], BADNAM
     ]
     return buttons
 
@@ -83,11 +83,11 @@ def stream_markup_timer(_, chat_id, played, dur):
 def stream_markup(_, chat_id):
     buttons = [
         [
-            InlineKeyboardButton(text="▷", callback_data=f"ADMIN Resume|{chat_id}"),
-            InlineKeyboardButton(text="II", callback_data=f"ADMIN Pause|{chat_id}"),
-            InlineKeyboardButton(text="↻", callback_data=f"ADMIN Replay|{chat_id}"),
-            InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
-            InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
+            InlineKeyboardButton(text="▷", callback_data=f"ADMIN 🥀Resume|🥀{chat_id}"),https://t.me/Friends_x_zone 
+            InlineKeyboardButton(text="II", callback_data=f"ADMIN 🥀Pause🥀|{chat_id}"),https://t.me/Friends_x_zone
+            InlineKeyboardButton(text="↻", callback_data=f"ADMIN 🥀Replay🥀|{chat_id}"), https://t.me/friends_kiDuniya
+            InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN 🥀Skip🥀|{chat_id}"),https://t.me/Hindu_Nagri23
+            InlineKeyboardButton(text="▢", callback_data=f"ADMIN 🥀Stop🥀|{chat_id}"),https://t.me/friends_kiDuniya
          ],
         [
             InlineKeyboardButton(
@@ -103,21 +103,21 @@ def stream_markup(_, chat_id):
 
 
 def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
-    buttons = [
-        [
+    buttons = [https://t.me/friends_kiDuniya
+       [
             InlineKeyboardButton(
                 text=_["P_B_1"],
                 callback_data=f"AyushPlaylists {videoid}|{user_id}|{ptype}|a|{channel}|{fplay}",
             ),
             InlineKeyboardButton(
                 text=_["P_B_2"],
-                callback_data=f"AyushPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",
+                callback_data=f"AyushPlaylists {videoid}|{user_id}|{ptype}|v|{channel}|{fplay}",https://t.me/Hindu_Nagri23
             ),
         ],
         [
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
-                callback_data=f"forceclose {videoid}|{user_id}",
+                callback_data=f"forceclose {videoid}|{user_id}",https://t.me/Hindu_Nagri23
             ),
         ],
     ]
@@ -125,7 +125,7 @@ def playlist_markup(_, videoid, user_id, ptype, channel, fplay):
 
 
 def livestream_markup(_, videoid, user_id, mode, channel, fplay):
-    buttons = [
+    buttons = [https://t.me/friends_kiDuniya
         [
             InlineKeyboardButton(
                 text=_["P_B_3"],
@@ -144,11 +144,11 @@ def livestream_markup(_, videoid, user_id, mode, channel, fplay):
 
 def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
     query = f"{query[:20]}"
-    buttons = [
+    buttons = [https://t.me/friends_kiDuniya
         [
             InlineKeyboardButton(
                 text=_["P_B_1"],
-                callback_data=f"MusicStream {videoid}|{user_id}|a|{channel}|{fplay}",
+                callback_data=f"MusicStream {videoid}|{user_id}|a|{channel}|{fplay}"https://t.me/Hindu_Nagri23,
             ),
             InlineKeyboardButton(
                 text=_["P_B_2"],
